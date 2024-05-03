@@ -1,3 +1,4 @@
+# Just run python app.py in terminal to start
 # Diabetes Prediction
 A Flask web app to predict diabetes in a patient using SVM ML model.
 
